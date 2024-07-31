@@ -1,0 +1,5 @@
+outs:
+- md5: 3b7faf73fadb7a3a432fb8370ea355fc
+  size: 714796
+  hash: md5
+  path: InternationalSales.csv
